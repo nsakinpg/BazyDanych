@@ -1,0 +1,8 @@
+Original data drinks.csv is available in OriginalData folder.
+
+OriginalData/drinks.csv headers are:
+- country -> name of the country
+- beer_servings -> cans of beer drunk per person in country
+- spirit_servings -> shots of spirits drunk per person in country
+- wine_servings -> glasses of wine drunk per person in country
+- total_litres_of_pure_alcohol -> number of total litres of pure alcohol consumed by person in country
