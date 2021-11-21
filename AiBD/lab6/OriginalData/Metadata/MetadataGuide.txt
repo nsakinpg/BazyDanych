@@ -1,0 +1,8 @@
+Original data 10_POMORSKIE.csv is available in OriginalData folder.
+
+OriginalData/10_POMORSKIE.csv headers are:
+- Dni od zakupu -> liczba dni od, które minęły od dokonania zakupu
+- Marka -> marka, która wyprodukowała sprzęt
+- Wiek kupującego -> wiek podany przez osobę kupującą 
+- Płeć kupującego -> płeć podana przez osobę kupującą (bd. -> nie sprecyzowano)
+- Ocena -> ocena sprzętu przez kupującego od 0 do 5
